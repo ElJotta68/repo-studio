@@ -1,7 +1,7 @@
 
     
-numA = 35
-numB = 45
+let numA = 35
+let numB = 45
 
-res = numA + numB 
+let res = numA + numB 
 console.console.log(res);
